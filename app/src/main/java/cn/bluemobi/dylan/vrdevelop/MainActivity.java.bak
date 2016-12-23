@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
              * 显示模式改变回调
              * 1.默认
              * 2.全屏模式
-             * 3.VR观看模式，即横屏分屏模式
+             * 3.VR观看模式，，即横屏分屏模式
              * @param newDisplayMode 模式
              */
             @Override
