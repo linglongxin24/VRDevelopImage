@@ -14,7 +14,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="VR360度全景图片" />
+        android:text="AndroidVR开发360度全景图片" />
 
     <com.google.vr.sdk.widgets.pano.VrPanoramaView
         android:id="@+id/vr_pan_view"
